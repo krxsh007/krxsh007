@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi there, I'm Krish 
 
-<!--
-**krxsh007/krxsh007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm passionate about reading, programming, and gaming. Currently, I'm delving deeper into the fascinating world of data structures and algorithms, as well as expanding my skills in web development. I'm pursuing a B.Tech degree in Information Technology, which fuels my enthusiasm for learning and creating innovative solutions.
 
-Here are some ideas to get you started:
+## Currently Learning
+- 🧠 Data Structures and Algorithms
+- 🌐 Web Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Education
+- 🎓 B.Tech in Information Technology
+
+Feel free to explore my repositories and projects. I'm always open to feedback and collaboration!
+
